@@ -1,0 +1,16 @@
+body
+{
+    background-color: gray;
+}
+
+#rubrik
+{
+    margin-left: 42.5%;
+    text-decoration: underline;
+}
+
+#resultat
+{
+    margin-top: 2%;
+    margin-left: 42%;
+}

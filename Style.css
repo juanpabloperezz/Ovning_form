@@ -1,0 +1,29 @@
+body
+{
+    background-color: gray;
+}
+
+h1
+{
+    text-decoration: underline;
+}
+
+#Rubrik
+{
+    margin-left: 42.5%;
+    margin-bottom: 2%;
+}
+
+#form_menu
+{
+    margin-left: 29%;
+}
+
+#menu
+{
+    background-color: grey;
+    height: 5%;
+    width: 35%;
+    margin-left: 30%;
+    margin-bottom: 2%;
+}
